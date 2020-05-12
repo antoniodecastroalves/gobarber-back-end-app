@@ -1,2 +1,9 @@
-node_modules
-dist
+.idea/
+.vscode/
+node_modules/
+build/
+temp/
+dist/
+
+tmp/*
+!tmp/.gitkeep
