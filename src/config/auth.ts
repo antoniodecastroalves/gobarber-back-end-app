@@ -1,6 +1,6 @@
 export default {
   jwt: {
-    secret: 'cb4f0d246dc8156e6c20d755123c4cd8',
+    secret: 'c3c3e9a89946db4b463c4a4c09a2c0f2',
     expiresIn: '1d',
   },
 };
